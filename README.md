@@ -1,4 +1,4 @@
-# Boilerplate templates
+# TypeScript, React-Native, TailwindCSS
 
 - React-Native - 0.72.6
 - TypeScript - 5.1.3
